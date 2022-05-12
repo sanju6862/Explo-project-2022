@@ -15,4 +15,4 @@ The task can be broadly divided into four parts:
 * Conversion from Camera frame to World frame.
 * Finding the optimal solution.
 
-More details can be found in [report](Exploratory_Project.pdf).
+More details can be found in [report](Exploratory Project_2022.pdf).
